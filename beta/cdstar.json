@@ -707,6 +707,12 @@
         "thumbnail": "thumbnail.JPG", 
         "web": "web.JPG"
     }, 
+    "068b34b2e7ed2d5234385d619f7a3f76": {
+        "objid": "EAEA0-3E0A-DEAF-7A5B-0", 
+        "original": "a.doc", 
+        "thumbnail": null, 
+        "web": null
+    }, 
     "06afc53fd404bf39f14e02e165be12c3": {
         "objid": "EAEA0-DA48-26A3-8F67-0", 
         "original": "full.JPG", 
@@ -3557,6 +3563,12 @@
         "thumbnail": "thumbnail.JPG", 
         "web": "web.JPG"
     }, 
+    "23de5c664287c0d7e50ba0970b2e3813": {
+        "objid": "EAEA0-3D3E-A31A-871E-0", 
+        "original": "a.doc", 
+        "thumbnail": null, 
+        "web": null
+    }, 
     "241b13aa4ef96755b4602d4b9e6ab00e": {
         "objid": "EAEA0-90DC-C43E-8F5C-0", 
         "original": "full.JPG", 
@@ -6119,6 +6131,12 @@
         "thumbnail": "thumbnail.jpg", 
         "web": "web.jpg"
     }, 
+    "3fb3b1343548b91ef984549193b216b6": {
+        "objid": "EAEA0-4F9F-8BED-BA1E-0", 
+        "original": "a.doc", 
+        "thumbnail": null, 
+        "web": null
+    }, 
     "3fbeff5073068d8c3e6a0997d6ee81f5": {
         "objid": "EAEA0-FC08-78B7-5041-0", 
         "original": "full.JPG", 
@@ -6538,6 +6556,12 @@
         "original": "full.tif", 
         "thumbnail": "thumbnail.tif", 
         "web": "web.tif"
+    }, 
+    "4394acf7d238fa4a5d8e5095c4ac027b": {
+        "objid": "EAEA0-7CB1-FD3D-2EAF-0", 
+        "original": "a.doc", 
+        "thumbnail": null, 
+        "web": null
     }, 
     "43991dcb0741d91f96dd0e1904837930": {
         "objid": "EAEA0-D865-7015-0123-0", 
@@ -8620,6 +8644,12 @@
         "original": "full.JPG", 
         "thumbnail": "thumbnail.JPG", 
         "web": "web.JPG"
+    }, 
+    "58e22ac1b6ac94daefa993a487fab841": {
+        "objid": "EAEA0-6CB9-C3C8-125C-0", 
+        "original": "a.pdf", 
+        "thumbnail": null, 
+        "web": null
     }, 
     "58fa4f8ce5f006e1441333d0b78f6b67": {
         "objid": "EAEA0-B7FC-D050-3335-0", 
@@ -14801,6 +14831,12 @@
         "thumbnail": "thumbnail.JPG", 
         "web": "web.JPG"
     }, 
+    "9b7c72551bac602c112555bbb924f3d5": {
+        "objid": "EAEA0-E2AA-9999-AD12-0", 
+        "original": "a.doc", 
+        "thumbnail": null, 
+        "web": null
+    }, 
     "9b8f0b5f37c08f56bca14051b5d3c997": {
         "objid": "EAEA0-8B23-6AB4-548F-0", 
         "original": "full.JPG", 
@@ -17339,6 +17375,12 @@
         "thumbnail": "thumbnail.JPG", 
         "web": "web.JPG"
     }, 
+    "b93a4e38f1d928c4eab73ab09760bd44": {
+        "objid": "EAEA0-458D-2AE7-E2D1-0", 
+        "original": "a.doc", 
+        "thumbnail": null, 
+        "web": null
+    }, 
     "b93be811b95da626da3c1d38e49101bb": {
         "objid": "EAEA0-9F13-F5A5-CA15-0", 
         "original": "a.jpg", 
@@ -17380,6 +17422,12 @@
         "original": "full.JPG", 
         "thumbnail": "thumbnail.JPG", 
         "web": "web.JPG"
+    }, 
+    "b9e1b6e146049693a43d84eed540eba8": {
+        "objid": "EAEA0-73E3-2955-8CF2-0", 
+        "original": "a.doc", 
+        "thumbnail": null, 
+        "web": null
     }, 
     "b9f9dfcf8d10fd4dc702f07ea8b1e6aa": {
         "objid": "EAEA0-3C0F-D429-64A9-0", 
@@ -19127,6 +19175,12 @@
         "thumbnail": "thumbnail.tif", 
         "web": "web.tif"
     }, 
+    "cd3d7198f3862de8d3aa2dc48fe9cc32": {
+        "objid": "EAEA0-165C-D6E2-CB22-0", 
+        "original": "a.pdf", 
+        "thumbnail": null, 
+        "web": null
+    }, 
     "cd4e7b8b38ccb321d9c6956316227860": {
         "objid": "EAEA0-A0EB-F2EA-ED4C-0", 
         "original": "full.JPG", 
@@ -20764,6 +20818,12 @@
         "original": "full.jpg", 
         "thumbnail": "thumbnail.jpg", 
         "web": "web.jpg"
+    }, 
+    "e025a27c17c5c7ca64ec61f6d3d747b1": {
+        "objid": "EAEA0-A985-F00E-F75A-0", 
+        "original": "a.doc", 
+        "thumbnail": null, 
+        "web": null
     }, 
     "e03d2043c30ca6cce84624d303946f81": {
         "objid": "EAEA0-76D9-0D04-4EF5-0", 
@@ -23296,6 +23356,12 @@
         "original": "full.jpg", 
         "thumbnail": "thumbnail.jpg", 
         "web": "web.jpg"
+    }, 
+    "fae3359478beadd44b4d42519af8015c": {
+        "objid": "EAEA0-D4A5-B530-BE76-0", 
+        "original": "a.doc", 
+        "thumbnail": null, 
+        "web": null
     }, 
     "faec33b4a2440a3c493d5a9db404dd61": {
         "objid": "EAEA0-239E-D59C-9805-0", 
