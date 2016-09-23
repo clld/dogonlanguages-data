@@ -6812,8 +6812,8 @@
     "46e373d9e251c8ebf87508a2c9d58bb8": {
         "objid": "EAEA0-2500-633B-2518-0", 
         "original": "0", 
-        "thumbnail": null, 
-        "web": null
+        "thumbnail": "thumbnail.jpg", 
+        "web": "web.jpg"
     }, 
     "46ec4e08504bc7c7165fd57db4015791": {
         "objid": "EAEA0-50BA-1325-715F-0", 
