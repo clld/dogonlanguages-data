@@ -1469,6 +1469,12 @@
         "thumbnail": "thumbnail.jpg", 
         "web": "web.jpg"
     }, 
+    "0df71cbabb4bc62772e752e6411c0c2f": {
+        "objid": "EAEA0-7331-E308-14FC-0", 
+        "original": "a.mov", 
+        "thumbnail": null, 
+        "web": null
+    }, 
     "0e01ac95f89553f88aeb54f0d62d53ec": {
         "objid": "EAEA0-7D66-89DE-289B-0", 
         "original": "0", 
@@ -3497,6 +3503,12 @@
         "thumbnail": "thumbnail.JPG", 
         "web": "web.JPG"
     }, 
+    "22ae1cb1c986c6e877f8a4a91258a3e3": {
+        "objid": "EAEA0-F036-CD48-7CAB-0", 
+        "original": "a.avi", 
+        "thumbnail": null, 
+        "web": null
+    }, 
     "22cca127352f62b54801f00442a6baab": {
         "objid": "EAEA0-9C69-CC7C-B36A-0", 
         "original": "full.tif", 
@@ -4349,6 +4361,12 @@
         "thumbnail": "thumbnail.JPG", 
         "web": "web.JPG"
     }, 
+    "2c0c075e148e18841508f34b92fad084": {
+        "objid": "EAEA0-90FB-19AE-5C0B-0", 
+        "original": "a.mov", 
+        "thumbnail": null, 
+        "web": null
+    }, 
     "2c0c553c6ca64d6cb96874f8334fd27d": {
         "objid": "EAEA0-4B12-5785-2FCF-0", 
         "original": "full.tif", 
@@ -5056,6 +5074,12 @@
         "original": "full.JPG", 
         "thumbnail": "thumbnail.JPG", 
         "web": "web.JPG"
+    }, 
+    "32b5a3391396ab76c72aa38bcfb4e62b": {
+        "objid": "EAEA0-B40C-36E9-87F4-0", 
+        "original": "a.mov", 
+        "thumbnail": null, 
+        "web": null
     }, 
     "32c47425f98a2bf6634ae4f5f2d05bf2": {
         "objid": "EAEA0-E6A5-C951-C2D9-0", 
@@ -18665,6 +18689,12 @@
         "thumbnail": "thumbnail.JPG", 
         "web": "web.JPG"
     }, 
+    "c2bed063bd42825883fdf946f5c16835": {
+        "objid": "EAEA0-1933-B4C6-DDEE-0", 
+        "original": "a.mov", 
+        "thumbnail": null, 
+        "web": null
+    }, 
     "c2e8f23fb29dca7b9cf9f94aae58a943": {
         "objid": "EAEA0-E96C-2CC5-4EA9-0", 
         "original": "full.tif", 
@@ -22300,6 +22330,12 @@
         "original": "full.JPG", 
         "thumbnail": "thumbnail.JPG", 
         "web": "web.JPG"
+    }, 
+    "e9c19c35995a4db397baa283ef6ab153": {
+        "objid": "EAEA0-D8AD-0253-4199-0", 
+        "original": "a.avi", 
+        "thumbnail": null, 
+        "web": null
     }, 
     "ea10df008d93c8af0ee9c27fffd64a4b": {
         "objid": "EAEA0-18C0-208C-2A9D-0", 
