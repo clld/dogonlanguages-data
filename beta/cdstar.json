@@ -3289,6 +3289,13 @@
         "thumbnail": "thumbnail.jpg", 
         "web": "web.jpg"
     }, 
+    "16bee717ede988051efa3e05e7f25c39": {
+        "objid": "EAEA0-CB27-C449-7806-0", 
+        "original": "a.doc", 
+        "size": 289280, 
+        "thumbnail": null, 
+        "web": null
+    }, 
     "16c864c5f6e42714edc4971fb2b9115e": {
         "objid": "EAEA0-59DD-CCAB-5488-0", 
         "original": "a.jpg", 
@@ -3568,6 +3575,13 @@
         "size": 3678216, 
         "thumbnail": "thumbnail.jpg", 
         "web": "web.jpg"
+    }, 
+    "18dc2870fdae752531a5c529590e751c": {
+        "objid": "EAEA0-5A36-87CA-5236-0", 
+        "original": "a.doc", 
+        "size": 138752, 
+        "thumbnail": null, 
+        "web": null
     }, 
     "18dc7cb085407812ca8d5c91d8120d62": {
         "objid": "EAEA0-02F2-5851-7EC2-0", 
@@ -5500,6 +5514,13 @@
         "size": 363994, 
         "thumbnail": "thumbnail.tif", 
         "web": "web.tif"
+    }, 
+    "2602af9716b04a0d1e39d0026bf28939": {
+        "objid": "EAEA0-801A-C570-DA35-0", 
+        "original": "a.doc", 
+        "size": 72192, 
+        "thumbnail": null, 
+        "web": null
     }, 
     "260306c78cbdf61b3d66eae7c4d3b150": {
         "objid": "EAEA0-6137-8D0A-988D-0", 
@@ -12109,6 +12130,13 @@
         "thumbnail": "thumbnail.JPG", 
         "web": "web.JPG"
     }, 
+    "5185bf2d1a8471551a842cd2a7c5619a": {
+        "objid": "EAEA0-4B6E-583C-46FA-0", 
+        "original": "a.doc", 
+        "size": 69632, 
+        "thumbnail": null, 
+        "web": null
+    }, 
     "518d12f47ec48bb362856ac26efe7229": {
         "objid": "EAEA0-59A8-3461-55E0-0", 
         "original": "a.mov", 
@@ -15692,6 +15720,13 @@
         "size": 3085678, 
         "thumbnail": "thumbnail.jpg", 
         "web": "web.jpg"
+    }, 
+    "6a9f0b86948699f947e90b04f525fc8c": {
+        "objid": "EAEA0-D3F7-2223-FC19-0", 
+        "original": "a.doc", 
+        "size": 1540096, 
+        "thumbnail": null, 
+        "web": null
     }, 
     "6ab7fce127f59fc254be937c0d4b6708": {
         "objid": "EAEA0-5888-3908-1333-0", 
@@ -31309,6 +31344,13 @@
         "size": 1849406, 
         "thumbnail": "thumbnail.JPG", 
         "web": "web.JPG"
+    }, 
+    "d907ec5c1d4c159416307e6b0d874348": {
+        "objid": "EAEA0-1F96-1380-620F-0", 
+        "original": "a.doc", 
+        "size": 390656, 
+        "thumbnail": null, 
+        "web": null
     }, 
     "d911027e29c1ba899b1ac542b324f6ec": {
         "objid": "EAEA0-FA7F-B5C7-0E64-0", 
