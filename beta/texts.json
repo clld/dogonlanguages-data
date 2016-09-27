@@ -1,4 +1,10 @@
 {
+    "ce7d03fb137b29aec46208481a3e54ac": [
+        "images/texts/Dogon-logophorics.doc"
+    ], 
+    "99c41bfbd08cd8ee746ae17410a67c2a": [
+        "images/texts/Dogon-syntactic-tonology-of-NP.doc"
+    ], 
     "068b34b2e7ed2d5234385d619f7a3f76": [
         "images/texts/Heath_Jamsay_texts_2004_03_trackA_trans.doc"
     ], 
@@ -23,13 +29,22 @@
     "9b7c72551bac602c112555bbb924f3d5": [
         "images/texts/Heath_Toro_Tegu_2004_texts_complete.doc"
     ], 
+    "0180d5b96d82e7263e32a9a7d44c01d0": [
+        "images/texts/Dogon-nominal-classes.doc"
+    ], 
     "4394acf7d238fa4a5d8e5095c4ac027b": [
         "images/texts/Heath_Najamba_texts_2005_Adia_trans_complete.doc"
     ], 
     "e025a27c17c5c7ca64ec61f6d3d747b1": [
         "images/texts/Heath_Ben_Tey_2005_texts_trans.doc"
     ], 
+    "071cd5cbbf862791d09cfb1821639329": [
+        "images/texts/Dogon-nasalized-sonorants.doc"
+    ], 
     "b9e1b6e146049693a43d84eed540eba8": [
         "images/texts/Heath_Nanga_texts_trans_complete.doc"
+    ], 
+    "a2303d047c37ebb09b9080ebcb2138f3": [
+        "images/texts/Heath_Jamsay_Pergue_dialect_notes_2011_May.doc"
     ]
 }
