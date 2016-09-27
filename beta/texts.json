@@ -1,4 +1,37 @@
 {
+    "cd3d7198f3862de8d3aa2dc48fe9cc32": [
+        "images/texts/Jamsay_2004_03_trackA_translation_Heath.pdf"
+    ], 
+    "99c41bfbd08cd8ee746ae17410a67c2a": [
+        "images/texts/Dogon-syntactic-tonology-of-NP.doc"
+    ], 
+    "b93a4e38f1d928c4eab73ab09760bd44": [
+        "images/texts/Heath_Toro_Tegu_2004_texts_complete_trans.doc"
+    ], 
+    "047e3a2339e09403f451c5ed864d1914": [
+        "images/texts/Dogon_vowel_symbolism.doc"
+    ], 
+    "798f456c64a0a86fe24e3be07f401e79": [
+        "images/texts/JamsayVocab.pdf"
+    ], 
+    "071cd5cbbf862791d09cfb1821639329": [
+        "images/texts/Dogon-nasalized-sonorants.doc"
+    ], 
+    "6b52b496a111280c80511e1164c78f6f": [
+        "images/texts/Dogon_Identificational_it_is_X.doc"
+    ], 
+    "23de5c664287c0d7e50ba0970b2e3813": [
+        "images/texts/Heath_Najamba_texts_2005_Adia_complete.doc"
+    ], 
+    "e025a27c17c5c7ca64ec61f6d3d747b1": [
+        "images/texts/Heath_Ben_Tey_2005_texts_trans.doc"
+    ], 
+    "30639032de20fdd68c27728683ca28e4": [
+        "images/texts/TogoKanText_b.doc"
+    ], 
+    "b9e1b6e146049693a43d84eed540eba8": [
+        "images/texts/Heath_Nanga_texts_trans_complete.doc"
+    ], 
     "ce7d03fb137b29aec46208481a3e54ac": [
         "images/texts/Dogon-logophorics.doc"
     ], 
@@ -8,35 +41,23 @@
     "068b34b2e7ed2d5234385d619f7a3f76": [
         "images/texts/Heath_Jamsay_texts_2004_03_trackA_trans.doc"
     ], 
+    "84a2a5b18d8892218d197a993e4fc5c9": [
+        "images/texts/TogoKanTranslation_b.doc"
+    ], 
     "fae3359478beadd44b4d42519af8015c": [
         "images/texts/Heath_Jamsay_texts_2004_03_trackA.doc"
-    ], 
-    "cd3d7198f3862de8d3aa2dc48fe9cc32": [
-        "images/texts/Jamsay_2004_03_trackA_translation_Heath.pdf"
-    ], 
-    "99c41bfbd08cd8ee746ae17410a67c2a": [
-        "images/texts/Dogon-syntactic-tonology-of-NP.doc"
-    ], 
-    "23de5c664287c0d7e50ba0970b2e3813": [
-        "images/texts/Heath_Najamba_texts_2005_Adia_complete.doc"
-    ], 
-    "3fb3b1343548b91ef984549193b216b6": [
-        "images/texts/Heath_Nanga_texts_complete.doc"
-    ], 
-    "b93a4e38f1d928c4eab73ab09760bd44": [
-        "images/texts/Heath_Toro_Tegu_2004_texts_complete_trans.doc"
-    ], 
-    "9b7c72551bac602c112555bbb924f3d5": [
-        "images/texts/Heath_Toro_Tegu_2004_texts_complete.doc"
-    ], 
-    "58e22ac1b6ac94daefa993a487fab841": [
-        "images/texts/Jamsay_2004_03_trackA_original_Heath.pdf"
     ], 
     "6f3345e31ae242a99953eb7993c43ded": [
         "images/texts/GPS_Dogon_spreadsheet_for_LLMAP.xls"
     ], 
-    "047e3a2339e09403f451c5ed864d1914": [
-        "images/texts/Dogon_vowel_symbolism.doc"
+    "3fb3b1343548b91ef984549193b216b6": [
+        "images/texts/Heath_Nanga_texts_complete.doc"
+    ], 
+    "58e22ac1b6ac94daefa993a487fab841": [
+        "images/texts/Jamsay_2004_03_trackA_original_Heath.pdf"
+    ], 
+    "9b7c72551bac602c112555bbb924f3d5": [
+        "images/texts/Heath_Toro_Tegu_2004_texts_complete.doc"
     ], 
     "c588d663bc8a7119bd97fa1a4233c36a": [
         "images/texts/Dogon_verb_serialization_chaining.doc"
@@ -46,15 +67,6 @@
     ], 
     "4394acf7d238fa4a5d8e5095c4ac027b": [
         "images/texts/Heath_Najamba_texts_2005_Adia_trans_complete.doc"
-    ], 
-    "e025a27c17c5c7ca64ec61f6d3d747b1": [
-        "images/texts/Heath_Ben_Tey_2005_texts_trans.doc"
-    ], 
-    "071cd5cbbf862791d09cfb1821639329": [
-        "images/texts/Dogon-nasalized-sonorants.doc"
-    ], 
-    "b9e1b6e146049693a43d84eed540eba8": [
-        "images/texts/Heath_Nanga_texts_trans_complete.doc"
     ], 
     "03297aefc56c8021832c8aa97ce91c95": [
         "images/texts/Dogon_relative_clauses.doc"
