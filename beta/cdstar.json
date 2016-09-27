@@ -5291,6 +5291,13 @@
         "thumbnail": "thumbnail.JPG", 
         "web": "web.JPG"
     }, 
+    "23de5c664287c0d7e50ba0970b2e3813": {
+        "objid": "EAEA0-A9EB-9B90-A9E8-0", 
+        "original": "a.doc", 
+        "size": 314, 
+        "thumbnail": null, 
+        "web": null
+    }, 
     "241b13aa4ef96755b4602d4b9e6ab00e": {
         "objid": "EAEA0-90DC-C43E-8F5C-0", 
         "original": "full.JPG", 
@@ -10043,6 +10050,13 @@
         "size": 343368, 
         "thumbnail": "thumbnail.tif", 
         "web": "web.tif"
+    }, 
+    "4394acf7d238fa4a5d8e5095c4ac027b": {
+        "objid": "EAEA0-D073-5CA8-52DE-0", 
+        "original": "a.doc", 
+        "size": 320, 
+        "thumbnail": null, 
+        "web": null
     }, 
     "43991dcb0741d91f96dd0e1904837930": {
         "objid": "EAEA0-D865-7015-0123-0", 
