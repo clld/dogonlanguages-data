@@ -22175,6 +22175,13 @@
         "thumbnail": null, 
         "web": null
     }, 
+    "91097dc2a1857f4ac444a0ab41ebb039": {
+        "objid": "EAEA0-B933-DB08-B811-0", 
+        "original": "a.avi", 
+        "size": 112739898, 
+        "thumbnail": null, 
+        "web": null
+    }, 
     "9112fbec3d3114e3accbc6354f88c439": {
         "objid": "EAEA0-AEF7-D5B0-3F05-0", 
         "original": "a.jpg", 
@@ -22230,6 +22237,13 @@
         "size": 3098818, 
         "thumbnail": "thumbnail.jpg", 
         "web": "web.jpg"
+    }, 
+    "91642779c2d2abaa17d98f46311f05cd": {
+        "objid": "EAEA0-7F19-5F47-1F2E-0", 
+        "original": "a.avi", 
+        "size": 247959424, 
+        "thumbnail": null, 
+        "web": null
     }, 
     "9180ec8a4fb7cb8bbd73b929841e5e11": {
         "objid": "EAEA0-7CD2-A6C6-0AB3-0", 
@@ -22846,6 +22860,13 @@
         "size": 452048, 
         "thumbnail": "thumbnail.tif", 
         "web": "web.tif"
+    }, 
+    "963f962be8dd83112dabaede7fd12f9d": {
+        "objid": "EAEA0-F338-EF5F-AD15-0", 
+        "original": "a.avi", 
+        "size": 848438, 
+        "thumbnail": null, 
+        "web": null
     }, 
     "96527fefcf7f66fe4b6c6d133d758c41": {
         "objid": "EAEA0-0975-1373-15E2-0", 
@@ -26115,6 +26136,13 @@
         "size": 2831370, 
         "thumbnail": "thumbnail.jpg", 
         "web": "web.jpg"
+    }, 
+    "ac176ad478de9611c164d31edba04d93": {
+        "objid": "EAEA0-E725-641F-F612-0", 
+        "original": "a.mov", 
+        "size": 84842, 
+        "thumbnail": null, 
+        "web": null
     }, 
     "ac233b77b6664c1bd650d67c22b09078": {
         "objid": "EAEA0-BDE1-10FA-729D-0", 
@@ -35635,6 +35663,13 @@
         "size": 454803, 
         "thumbnail": "thumbnail.jpg", 
         "web": "web.jpg"
+    }, 
+    "ee47331704b89ed522317bd5f9acb77d": {
+        "objid": "EAEA0-355C-3210-81D3-0", 
+        "original": "a.mov", 
+        "size": 190372, 
+        "thumbnail": null, 
+        "web": null
     }, 
     "ee51f428d35d0da664bc86d37f842ab0": {
         "objid": "EAEA0-D2FA-C7EF-09C1-0", 
