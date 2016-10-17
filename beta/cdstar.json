@@ -294,6 +294,7 @@
         "web": "web.jpg"
     }, 
     "01522835adf6f3a8d1611a587fd1df32": {
+        "duration": 6.673333, 
         "objid": "EAEA0-F80B-25B9-C8B1-0", 
         "original": "a.mov", 
         "size": 202278, 
@@ -455,6 +456,7 @@
         "web": "web.jpg"
     }, 
     "0200fcf23a3fefe5380e356b1d8de7ad": {
+        "duration": 4.672005, 
         "objid": "EAEA0-AD12-9109-7C59-0", 
         "original": "a.mp4", 
         "size": 232554, 
@@ -847,6 +849,7 @@
         "web": "web.JPG"
     }, 
     "03e5acd2eee4684ce3e00fab17c63669": {
+        "duration": 6.404989, 
         "objid": "EAEA0-86C6-E27F-596C-0", 
         "original": "a.mov", 
         "size": 153521, 
@@ -952,6 +955,7 @@
         "web": "web.jpg"
     }, 
     "044046858e6130efc60461a86769af72": {
+        "duration": 4.088005, 
         "objid": "EAEA0-696F-DF2D-D644-0", 
         "original": "a.mp4", 
         "size": 224546, 
@@ -1176,6 +1180,7 @@
         "web": "web.jpg"
     }, 
     "05249da6b25c185e97a50bc453c7fb23": {
+        "duration": 747.64, 
         "objid": "EAEA0-2CF9-AE83-A57A-0", 
         "original": "a.mp4", 
         "size": 185728473, 
@@ -1323,6 +1328,7 @@
         "web": "web.jpg"
     }, 
     "05a78d76877324611ba9cd362e6d9eed": {
+        "duration": 4.456689, 
         "objid": "EAEA0-3EDC-364C-B559-0", 
         "original": "a.mov", 
         "size": 182909, 
@@ -1960,6 +1966,7 @@
         "web": "web.jpg"
     }, 
     "091c4bdad41fbfb41af6cd731a49c2d6": {
+        "duration": 309.56, 
         "objid": "EAEA0-340A-CBA7-5BD2-0", 
         "original": "a.mp4", 
         "size": 61547888, 
@@ -2058,6 +2065,7 @@
         "web": "web.jpg"
     }, 
     "09d21e634cbcf7c8348b5b691cf9f906": {
+        "duration": 2.228345, 
         "objid": "EAEA0-2011-A909-9821-0", 
         "original": "a.mov", 
         "size": 129348, 
@@ -2366,6 +2374,7 @@
         "web": "web.jpg"
     }, 
     "0b36e4d00a0346333713fe1729ffb695": {
+        "duration": 676.28, 
         "objid": "EAEA0-6216-4017-758B-0", 
         "original": "a.mp4", 
         "size": 282475317, 
@@ -2695,6 +2704,7 @@
         "web": "web.JPG"
     }, 
     "0c65b808931003039378168522d004c3": {
+        "duration": 315.56, 
         "objid": "EAEA0-BC5B-BF84-83FF-0", 
         "original": "a.mp4", 
         "size": 131667488, 
@@ -3724,6 +3734,7 @@
         "web": "web.jpg"
     }, 
     "12100582b139677383c40b7f5ec0bd90": {
+        "duration": 180.36, 
         "objid": "EAEA0-AEE4-4B20-43D4-0", 
         "original": "a.mp4", 
         "size": 52793146, 
@@ -3934,6 +3945,7 @@
         "web": "web.jpg"
     }, 
     "139115ae30edc5b2aca39c98e72e6f09": {
+        "duration": 534.48, 
         "objid": "EAEA0-4B5E-8DE5-BAE9-0", 
         "original": "a.mp4", 
         "size": 137542613, 
@@ -4809,6 +4821,7 @@
         "web": null
     }, 
     "1876f48df1c6b8fb8ad5d83e642b051f": {
+        "duration": 538.28, 
         "objid": "EAEA0-F5BB-3D0C-2264-0", 
         "original": "a.mp4", 
         "size": 253638319, 
@@ -4921,6 +4934,7 @@
         "web": "web.jpg"
     }, 
     "18f657d8ea62e6eb07fc974d7fca452a": {
+        "duration": 6.424007, 
         "objid": "EAEA0-989E-1EFC-1272-0", 
         "original": "a.mp4", 
         "size": 244810, 
@@ -7343,6 +7357,7 @@
         "web": "web.jpg"
     }, 
     "24cce3c54de75660c369b84bf9090615": {
+        "duration": 123.44, 
         "objid": "EAEA0-8BDA-1C5A-1E30-0", 
         "original": "a.mp4", 
         "size": 23169983, 
@@ -7798,6 +7813,7 @@
         "web": "web.jpg"
     }, 
     "272975d287bd9a232efe5f3708d2bdf1": {
+        "duration": 131.12, 
         "objid": "EAEA0-5ED5-53C3-2E8B-0", 
         "original": "a.avi", 
         "size": 26946344, 
@@ -9471,6 +9487,7 @@
         "web": "web.jpg"
     }, 
     "2f4d677fa08239deb567544b6efaceba": {
+        "duration": 527.68, 
         "objid": "EAEA0-02CC-14AA-F0A7-0", 
         "original": "a.mp4", 
         "size": 231936088, 
@@ -10493,6 +10510,7 @@
         "web": "web.JPG"
     }, 
     "3403828eee51fba838d77fcccafeb66f": {
+        "duration": 309.56, 
         "objid": "EAEA0-B50A-910D-38DD-0", 
         "original": "a.avi", 
         "size": 64129810, 
@@ -10878,6 +10896,7 @@
         "web": "web.jpg"
     }, 
     "360205fc9b2b46bd132b49a6fd6b4473": {
+        "duration": 806.773333, 
         "objid": "EAEA0-3541-7D3D-5CE9-0", 
         "original": "videos.mov", 
         "size": 84203505, 
@@ -10976,6 +10995,7 @@
         "web": "web.JPG"
     }, 
     "36a4adbff4f1959bc1745e192ed1e175": {
+        "duration": 339.2, 
         "objid": "EAEA0-EDB7-5396-CDF6-0", 
         "original": "a.avi", 
         "size": 68817460, 
@@ -11928,6 +11948,7 @@
         "web": "web.JPG"
     }, 
     "3b49a6016b6233138b703be26b88fe53": {
+        "duration": 605.56, 
         "objid": "EAEA0-4D02-6C86-8230-0", 
         "original": "a.mp4", 
         "size": 201067521, 
@@ -11991,6 +12012,7 @@
         "web": "web.JPG"
     }, 
     "3b93c558ccc7d25729554ad4e6248736": {
+        "duration": 3.337004, 
         "objid": "EAEA0-E279-1E87-D47B-0", 
         "original": "a.mp4", 
         "size": 192087, 
@@ -12607,6 +12629,7 @@
         "web": "web.jpg"
     }, 
     "3ee6ad3f96e48584e85be8faadd17d6c": {
+        "duration": 4.136689, 
         "objid": "EAEA0-5FE0-5F75-2982-0", 
         "original": "a.mov", 
         "size": 214210, 
@@ -16989,6 +17012,7 @@
         "web": "web.JPG"
     }, 
     "548ba79425091f78d5d45ed049f1d8bd": {
+        "duration": 3.671004, 
         "objid": "EAEA0-0F31-F094-A97B-0", 
         "original": "a.mp4", 
         "size": 214575, 
@@ -17556,6 +17580,7 @@
         "web": "web.jpg"
     }, 
     "57d6518d25283789136d96c9031a36c7": {
+        "duration": 332.96, 
         "objid": "EAEA0-5B7E-312C-833F-0", 
         "original": "a.mp4", 
         "size": 127371686, 
@@ -18151,6 +18176,7 @@
         "web": "web.JPG"
     }, 
     "5aa8cb0ae6605126b7bbd881d68e421b": {
+        "duration": 2.6, 
         "objid": "EAEA0-7CAF-FC99-ECA6-0", 
         "original": "a.mov", 
         "size": 147875, 
@@ -18242,6 +18268,7 @@
         "web": "web.JPG"
     }, 
     "5b3f481323fc034a992992a844a9c140": {
+        "duration": 3.715011, 
         "objid": "EAEA0-B243-5E44-676D-0", 
         "original": "a.mov", 
         "size": 190737, 
@@ -18410,6 +18437,7 @@
         "web": "web.jpg"
     }, 
     "5c1dceac01f03ec28f1981baf29793d6": {
+        "duration": 561.84, 
         "objid": "EAEA0-3364-A869-73AF-0", 
         "original": "a.mp4", 
         "size": 140495988, 
@@ -18956,6 +18984,7 @@
         "web": "web.JPG"
     }, 
     "5ea648e11827ca488e1149357151647e": {
+        "duration": 314.88, 
         "objid": "EAEA0-D3CA-7BAF-8DDC-0", 
         "original": "a.mp4", 
         "size": 70882032, 
@@ -19586,6 +19615,7 @@
         "web": null
     }, 
     "6210b30c09ea5be64de2cce1d46d86b4": {
+        "duration": 310.96, 
         "objid": "EAEA0-0632-2E39-BEAA-0", 
         "original": "a.mp4", 
         "size": 144839437, 
@@ -19964,6 +19994,7 @@
         "web": "web.JPG"
     }, 
     "63b3b47908828a3cd02c1494098db229": {
+        "duration": 208.2, 
         "objid": "EAEA0-A195-20BD-1183-0", 
         "original": "a.mp4", 
         "size": 86641830, 
@@ -19971,6 +20002,7 @@
         "web": null
     }, 
     "63b66bf8af2523c9717fdc1856e8fce7": {
+        "duration": 149.36, 
         "objid": "EAEA0-8806-FBAD-D9B3-0", 
         "original": "a.mp4", 
         "size": 13354985, 
@@ -20055,6 +20087,7 @@
         "web": "web.jpg"
     }, 
     "63f76747ded6ae0c1d32e16016e07cdd": {
+        "duration": 1.085002, 
         "objid": "EAEA0-1187-9E33-B1AE-0", 
         "original": "a.mp4", 
         "size": 70184, 
@@ -21203,6 +21236,7 @@
         "web": "web.jpg"
     }, 
     "69c8ef79e36ba3427bd7981000d6317e": {
+        "duration": 6.674007, 
         "objid": "EAEA0-3B77-6BEB-6DC6-0", 
         "original": "a.mp4", 
         "size": 285665, 
@@ -22316,6 +22350,7 @@
         "web": "web.jpg"
     }, 
     "6f258ee17fbdd60f765574cf25a506ce": {
+        "duration": 679.76, 
         "objid": "EAEA0-CA37-E3BA-C8CB-0", 
         "original": "a.mp4", 
         "size": 268710634, 
@@ -22575,6 +22610,7 @@
         "web": "web.JPG"
     }, 
     "7072faad989f653d8bbd50a699f36807": {
+        "duration": 3.343356, 
         "objid": "EAEA0-F115-761D-4C10-0", 
         "original": "a.mov", 
         "size": 153740, 
@@ -23492,6 +23528,7 @@
         "web": "web.jpg"
     }, 
     "74949854e3456ed074105a457c5545a3": {
+        "duration": 806.740991, 
         "objid": "EAEA0-72B5-89B2-9D89-0", 
         "original": "a.mp4", 
         "size": 47798725, 
@@ -23541,6 +23578,7 @@
         "web": "web.jpg"
     }, 
     "74aef55f82392fce26e9d9e6b7ba3828": {
+        "duration": 538.28, 
         "objid": "EAEA0-171F-1194-5BBB-0", 
         "original": "a.avi", 
         "size": 113426006, 
@@ -23821,6 +23859,7 @@
         "web": "web.jpg"
     }, 
     "760a4754b29c16c375054a89ac5cef7d": {
+        "duration": 4.171004, 
         "objid": "EAEA0-700B-8FEE-D1D2-0", 
         "original": "a.mp4", 
         "size": 252794, 
@@ -24332,6 +24371,7 @@
         "web": "web.JPG"
     }, 
     "78ab58deaae2fde3e4069d6a90be1993": {
+        "duration": 8.173333, 
         "objid": "EAEA0-3F68-5231-98CE-0", 
         "original": "a.mov", 
         "size": 281332, 
@@ -24409,6 +24449,7 @@
         "web": "web.jpg"
     }, 
     "79309575dc2b70fe9e9cc21e819a1efa": {
+        "duration": 676.44, 
         "objid": "EAEA0-E125-6003-8998-0", 
         "original": "a.avi", 
         "size": 141850528, 
@@ -25263,6 +25304,7 @@
         "web": "web.jpg"
     }, 
     "7cc2d3935c6b285c6c8a3e8fa19c25c7": {
+        "duration": 210.52, 
         "objid": "EAEA0-595E-9658-521D-0", 
         "original": "a.avi", 
         "size": 43345764, 
@@ -25697,6 +25739,7 @@
         "web": null
     }, 
     "7ec93af000f103553af8234f11dd8777": {
+        "duration": 5.756006, 
         "objid": "EAEA0-3CF4-5464-95FD-0", 
         "original": "a.mp4", 
         "size": 218937, 
@@ -26026,6 +26069,7 @@
         "web": "web.JPG"
     }, 
     "8073a430a04f807f855737c79c26bcab": {
+        "duration": 4.672005, 
         "objid": "EAEA0-2EC4-93E1-863A-0", 
         "original": "a.mp4", 
         "size": 268048, 
@@ -26446,6 +26490,7 @@
         "web": "web.jpg"
     }, 
     "82c559c0c8f97e91f70b1388b460a29a": {
+        "duration": 3.921004, 
         "objid": "EAEA0-CB43-B72B-AC28-0", 
         "original": "a.mp4", 
         "size": 220061, 
@@ -26467,6 +26512,7 @@
         "web": "web.tif"
     }, 
     "82dba16a42aadbb2d44e5055c44a4cb1": {
+        "duration": 315.56, 
         "objid": "EAEA0-FB4C-DC84-F3C2-0", 
         "original": "a.avi", 
         "size": 66528300, 
@@ -28231,6 +28277,7 @@
         "web": "web.jpg"
     }, 
     "8b6dcc30223c26e30fe6e2b4afc5fa11": {
+        "duration": 554.76, 
         "objid": "EAEA0-8062-5574-6702-0", 
         "original": "a.avi", 
         "size": 118838510, 
@@ -28448,6 +28495,7 @@
         "web": "web.JPG"
     }, 
     "8d2eb59abff9f5889bf2a42c847ea1f9": {
+        "duration": 2.336003, 
         "objid": "EAEA0-31E6-4352-9E0C-0", 
         "original": "a.mp4", 
         "size": 155775, 
@@ -29127,6 +29175,7 @@
         "web": null
     }, 
     "91097dc2a1857f4ac444a0ab41ebb039": {
+        "duration": 527.68, 
         "objid": "EAEA0-B933-DB08-B811-0", 
         "original": "a.avi", 
         "size": 112739898, 
@@ -29316,6 +29365,7 @@
         "web": "web.jpg"
     }, 
     "921548b696e4d7c4d1a731c81032f2ad": {
+        "duration": 129.48, 
         "objid": "EAEA0-4282-8235-689C-0", 
         "original": "a.mp4", 
         "size": 53307297, 
@@ -29323,6 +29373,7 @@
         "web": null
     }, 
     "92156586e6a15e51af05b20c40b29e60": {
+        "duration": 290.48, 
         "objid": "EAEA0-126C-E639-BC14-0", 
         "original": "a.mp4", 
         "size": 128433682, 
@@ -29421,6 +29472,7 @@
         "web": "web.JPG"
     }, 
     "9306d51d83161307edf61a394dbd3bb5": {
+        "duration": 68.92, 
         "objid": "EAEA0-C7A0-01FC-9545-0", 
         "original": "a.avi", 
         "size": 14144824, 
@@ -29645,6 +29697,7 @@
         "web": null
     }, 
     "942f7c8fb953aae0096fd2c64d592c6e": {
+        "duration": 3.715011, 
         "objid": "EAEA0-30B1-62FB-F379-0", 
         "original": "a.mov", 
         "size": 158130, 
@@ -30079,6 +30132,7 @@
         "web": "web.jpg"
     }, 
     "9683b6dd5ca75edef36924fb8bace8f0": {
+        "duration": 3.421004, 
         "objid": "EAEA0-06B0-7984-6675-0", 
         "original": "a.mp4", 
         "size": 189303, 
@@ -30499,6 +30553,7 @@
         "web": "web.jpg"
     }, 
     "98a550db1069857a5231dfc094fc2be0": {
+        "duration": 599.6, 
         "objid": "EAEA0-43A1-0C88-2C30-0", 
         "original": "a.mp4", 
         "size": 265156153, 
@@ -30996,6 +31051,7 @@
         "web": "web.jpg"
     }, 
     "9af5bb7643a1eeec567a3df8a7e24dc1": {
+        "duration": 5.571655, 
         "objid": "EAEA0-E249-17E2-07E5-0", 
         "original": "a.mov", 
         "size": 145635, 
@@ -31584,6 +31640,7 @@
         "web": "web.JPG"
     }, 
     "9e6a6e547ccff5989bd45ee222294987": {
+        "duration": 851.946998, 
         "objid": "EAEA0-21F6-A811-F58D-0", 
         "original": "a.mp4", 
         "size": 149753816, 
@@ -31591,6 +31648,7 @@
         "web": null
     }, 
     "9e6b3fd845bca3116d8c88fbe4af52af": {
+        "duration": 423.0, 
         "objid": "EAEA0-7CD8-AEEF-4B99-0", 
         "original": "a.mp4", 
         "size": 141078407, 
@@ -31808,6 +31866,7 @@
         "web": "web.jpg"
     }, 
     "9f63397ecd6e8db57ace4968b8b0976c": {
+        "duration": 365.72, 
         "objid": "EAEA0-833F-3C70-958C-0", 
         "original": "a.avi", 
         "size": 76390424, 
@@ -32116,6 +32175,7 @@
         "web": "web.jpg"
     }, 
     "a0d97a43c14dc9d0c36d3669fe985f4e": {
+        "duration": 3.343356, 
         "objid": "EAEA0-F794-525A-3B85-0", 
         "original": "a.mov", 
         "size": 147683, 
@@ -32508,6 +32568,7 @@
         "web": "web.jpg"
     }, 
     "a2a8a632fe504c3f58ab4e624267b310": {
+        "duration": 427.64, 
         "objid": "EAEA0-B5A9-8659-0AEA-0", 
         "original": "a.avi", 
         "size": 87474960, 
@@ -33145,6 +33206,7 @@
         "web": "web.JPG"
     }, 
     "a5d3e786f06800e9645dce68e90edc41": {
+        "duration": 4.088005, 
         "objid": "EAEA0-A056-2C5E-841B-0", 
         "original": "a.mp4", 
         "size": 236923, 
@@ -33180,6 +33242,7 @@
         "web": "web.JPG"
     }, 
     "a5e59c35c6b73b6f5a217f0dbf1bb184": {
+        "duration": 314.88, 
         "objid": "EAEA0-0B7A-949A-14D0-0", 
         "original": "a.avi", 
         "size": 65414636, 
@@ -33208,6 +33271,7 @@
         "web": null
     }, 
     "a62dbeb725a40e6f5cfab7681ae3b2d7": {
+        "duration": 286.44, 
         "objid": "EAEA0-C6A8-1234-1C11-0", 
         "original": "a.mp4", 
         "size": 131927614, 
@@ -33432,6 +33496,7 @@
         "web": null
     }, 
     "a79bb89d4a993637030e00eba664050d": {
+        "duration": 463.12, 
         "objid": "EAEA0-B349-E9BB-2C61-0", 
         "original": "a.avi", 
         "size": 93920744, 
@@ -33859,6 +33924,7 @@
         "web": "web.jpg"
     }, 
     "a97ac7512dd8c80d287210d9434467ee": {
+        "duration": 563.72, 
         "objid": "EAEA0-F2BB-565C-5CAE-0", 
         "original": "a.avi", 
         "size": 117839886, 
@@ -34230,6 +34296,7 @@
         "web": "web.jpg"
     }, 
     "ab01564007e17d913925108db1a3e640": {
+        "duration": 365.72, 
         "objid": "EAEA0-3C0B-1541-C98C-0", 
         "original": "a.mp4", 
         "size": 158652817, 
@@ -34265,6 +34332,7 @@
         "web": "web.JPG"
     }, 
     "ab5d3cd6a3d90d6d651a05939380d81b": {
+        "duration": 4.456689, 
         "objid": "EAEA0-259F-8921-430D-0", 
         "original": "a.mov", 
         "size": 222920, 
@@ -34944,6 +35012,7 @@
         "web": "web.jpg"
     }, 
     "aea0b8949f135639279c9804ca773949": {
+        "duration": 3.921004, 
         "objid": "EAEA0-8983-B563-ACE5-0", 
         "original": "a.mp4", 
         "size": 196644, 
@@ -34958,6 +35027,7 @@
         "web": "web.jpg"
     }, 
     "aeaf3f9f4b845b18a892d95c15e08475": {
+        "duration": 751.44, 
         "objid": "EAEA0-D67F-3EFB-75B1-0", 
         "original": "a.avi", 
         "size": 155894982, 
@@ -35112,6 +35182,7 @@
         "web": null
     }, 
     "af5c588ffccf901684ac3bdb3430988b": {
+        "duration": 463.12, 
         "objid": "EAEA0-5CEA-7D68-6C8A-0", 
         "original": "a.mp4", 
         "size": 189794791, 
@@ -35448,6 +35519,7 @@
         "web": "web.jpg"
     }, 
     "b12708f37aa4a4de2c1e40720ed7dd65": {
+        "duration": 6.424007, 
         "objid": "EAEA0-7DE5-609F-FD5D-0", 
         "original": "a.mp4", 
         "size": 428309, 
@@ -35994,6 +36066,7 @@
         "web": "web.tif"
     }, 
     "b4494690c452bf00087935286c0068d5": {
+        "duration": 246.68, 
         "objid": "EAEA0-F091-5E74-BA3F-0", 
         "original": "a.avi", 
         "size": 52092918, 
@@ -36330,6 +36403,7 @@
         "web": "web.JPG"
     }, 
     "b65f866545cf8352351ac3fce6ab5686": {
+        "duration": 610.4, 
         "objid": "EAEA0-BC27-74DE-AB9E-0", 
         "original": "a.avi", 
         "size": 129343866, 
@@ -36435,6 +36509,7 @@
         "web": "web.tif"
     }, 
     "b6d2ff5224982c546f89edf460d87767": {
+        "duration": 4.171004, 
         "objid": "EAEA0-C9C3-3629-15A5-0", 
         "original": "a.mp4", 
         "size": 297104, 
@@ -37107,6 +37182,7 @@
         "web": "web.JPG"
     }, 
     "ba9cc332d091e6f47b1f1fc2d526333a": {
+        "duration": 563.08, 
         "objid": "EAEA0-2A7A-70A0-4E56-0", 
         "original": "a.mp4", 
         "size": 230968271, 
@@ -38122,6 +38198,7 @@
         "web": "web.jpg"
     }, 
     "bfd0d9cc0679acd6b74874716922fd39": {
+        "duration": 258.56, 
         "objid": "EAEA0-FC35-4215-BD27-0", 
         "original": "a.mp4", 
         "size": 48736011, 
@@ -38136,6 +38213,7 @@
         "web": "web.JPG"
     }, 
     "bfdc188b672bf79760daf765ba6f4989": {
+        "duration": 3.343356, 
         "objid": "EAEA0-CF09-5256-C5EC-0", 
         "original": "a.mov", 
         "size": 186767, 
@@ -38234,6 +38312,7 @@
         "web": null
     }, 
     "c03be8c24afcee58fdc1b8fc696eaa19": {
+        "duration": 2.920003, 
         "objid": "EAEA0-889D-6C74-54D4-0", 
         "original": "a.mp4", 
         "size": 142030, 
@@ -38479,6 +38558,7 @@
         "web": "web.jpg"
     }, 
     "c1539c4eed14ca99cc94b1f9c6158392": {
+        "duration": 2.228345, 
         "objid": "EAEA0-9669-019E-7358-0", 
         "original": "a.mov", 
         "size": 131425, 
@@ -38843,6 +38923,7 @@
         "web": "web.JPG"
     }, 
     "c386a39867f4453b5f142a854b65be18": {
+        "duration": 8.509009, 
         "objid": "EAEA0-14AA-4197-949F-0", 
         "original": "a.mp4", 
         "size": 455221, 
@@ -39214,6 +39295,7 @@
         "web": null
     }, 
     "c569feb70cf83b5876289fd25fa969da": {
+        "duration": 756.84, 
         "objid": "EAEA0-20D6-EE62-DB3E-0", 
         "original": "a.avi", 
         "size": 158624316, 
@@ -39697,6 +39779,7 @@
         "web": "web.tif"
     }, 
     "c784280af0a0f23d409a70d7acabe250": {
+        "duration": 2.503003, 
         "objid": "EAEA0-A2A6-0BE3-D761-0", 
         "original": "a.mp4", 
         "size": 146131, 
@@ -40180,6 +40263,7 @@
         "web": "web.jpg"
     }, 
     "ca216a3aadb0c87c716ea675c113b967": {
+        "duration": 310.96, 
         "objid": "EAEA0-4C20-407A-6792-0", 
         "original": "a.avi", 
         "size": 64121618, 
@@ -40481,6 +40565,7 @@
         "web": "web.tif"
     }, 
     "cb861b494c5412a2b2e7c78c1ad8720e": {
+        "duration": 2.6, 
         "objid": "EAEA0-94AE-41B6-9C92-0", 
         "original": "a.mov", 
         "size": 113746, 
@@ -40649,6 +40734,7 @@
         "web": "web.tif"
     }, 
     "cc2bf193848af3aa40a338e8da350072": {
+        "duration": 679.76, 
         "objid": "EAEA0-8366-EFDD-35E9-0", 
         "original": "a.avi", 
         "size": 142032194, 
@@ -40670,6 +40756,7 @@
         "web": "web.jpg"
     }, 
     "cc349d0025f9aa40c1232a59071c15b4": {
+        "duration": 4.103356, 
         "objid": "EAEA0-7015-7059-29CE-0", 
         "original": "a.mov", 
         "size": 300611, 
@@ -41062,6 +41149,7 @@
         "web": "web.jpg"
     }, 
     "ce35394e0c8416f80b7b57ac7b69c642": {
+        "duration": 181.32, 
         "objid": "EAEA0-BC0E-4EC9-3DB6-0", 
         "original": "a.avi", 
         "size": 37845370, 
@@ -41188,6 +41276,7 @@
         "web": "web.jpg"
     }, 
     "ceb5e112829e627c28b02e409a8994d3": {
+        "duration": 127.6, 
         "objid": "EAEA0-3F47-EC1A-1729-0", 
         "original": "a.mp4", 
         "size": 33523423, 
@@ -41356,6 +41445,7 @@
         "web": "web.jpg"
     }, 
     "cf9e70fce20037c9b77ad29a40172a18": {
+        "duration": 338.04, 
         "objid": "EAEA0-1D8E-8E54-6FF1-0", 
         "original": "a.avi", 
         "size": 71055360, 
@@ -41475,6 +41565,7 @@
         "web": "web.jpg"
     }, 
     "d042752eb5480dd62fb2f9fb8d043de8": {
+        "duration": 3.715011, 
         "objid": "EAEA0-6850-54A6-1BF8-0", 
         "original": "a.mov", 
         "size": 151359, 
@@ -42266,6 +42357,7 @@
         "web": "web.jpg"
     }, 
     "d4bcfcef232f3c454d794976f8789cae": {
+        "duration": 509.64, 
         "objid": "EAEA0-A095-8FDA-0D8F-0", 
         "original": "a.mp4", 
         "size": 127019295, 
@@ -42539,6 +42631,7 @@
         "web": "web.jpg"
     }, 
     "d647372905c44331a7d410a027af61ca": {
+        "duration": 534.44, 
         "objid": "EAEA0-ED2B-9BDC-BC39-0", 
         "original": "a.avi", 
         "size": 104499230, 
@@ -42833,6 +42926,7 @@
         "web": "web.tif"
     }, 
     "d8431b8c8383a7c01f871ea6f9798896": {
+        "duration": 527.68, 
         "objid": "EAEA0-CDD9-DFE3-AA39-0", 
         "original": "a.qt", 
         "size": 86584705, 
@@ -43176,6 +43270,7 @@
         "web": "web.JPG"
     }, 
     "da0098a98f4973c0a02b874ccab5aa23": {
+        "duration": 1.033333, 
         "objid": "EAEA0-806C-4D50-D9CB-0", 
         "original": "a.mov", 
         "size": 69342, 
@@ -43743,6 +43838,7 @@
         "web": null
     }, 
     "dcac8397b892299f178ad3b00fd4b15f": {
+        "duration": 8.342009, 
         "objid": "EAEA0-CE04-237F-9D1B-0", 
         "original": "a.mp4", 
         "size": 352949, 
@@ -43904,6 +44000,7 @@
         "web": "web.JPG"
     }, 
     "dd3291653256d8ac355c8ce99c7dc953": {
+        "duration": 291.44, 
         "objid": "EAEA0-AAF9-EDE8-EE36-0", 
         "original": "a.avi", 
         "size": 61072544, 
@@ -43960,6 +44057,7 @@
         "web": "web.jpg"
     }, 
     "dd6fc370c66f889068eeca93a0ab74fe": {
+        "duration": 286.44, 
         "objid": "EAEA0-E49C-C942-8934-0", 
         "original": "a.avi", 
         "size": 60717920, 
@@ -44037,6 +44135,7 @@
         "web": null
     }, 
     "ddbcdb0a65986eb9a03d5a423203790e": {
+        "duration": 8.173333, 
         "objid": "EAEA0-80CB-9C88-0C28-0", 
         "original": "a.mov", 
         "size": 352813, 
@@ -44079,6 +44178,7 @@
         "web": "web.jpg"
     }, 
     "dde7dc01fc19f5155e0ce9c64829e891": {
+        "duration": 2.670003, 
         "objid": "EAEA0-6989-F86E-2CF1-0", 
         "original": "a.mp4", 
         "size": 165758, 
@@ -44709,6 +44809,7 @@
         "web": "web.jpg"
     }, 
     "e19bf3cd9e08f65fa69785b940bde1da": {
+        "duration": 602.96, 
         "objid": "EAEA0-A6CF-3464-B3EC-0", 
         "original": "a.avi", 
         "size": 128432378, 
@@ -45094,6 +45195,7 @@
         "web": "web.jpg"
     }, 
     "e350046a0974379efc229c473f516e41": {
+        "duration": 129.48, 
         "objid": "EAEA0-864E-8624-2BDF-0", 
         "original": "a.avi", 
         "size": 26368830, 
@@ -45598,6 +45700,7 @@
         "web": "web.JPG"
     }, 
     "e59c76104242c81def6dda760c5d4d7b": {
+        "duration": 851.917733, 
         "objid": "EAEA0-E332-F5F8-29A1-0", 
         "original": "a.avi", 
         "size": 179045340, 
@@ -45703,6 +45806,7 @@
         "web": null
     }, 
     "e60cb3a9daa08087e9bb6373ea23c955": {
+        "duration": 258.56, 
         "objid": "EAEA0-5682-794E-8C2C-0", 
         "original": "a.avi", 
         "size": 54770552, 
@@ -45822,6 +45926,7 @@
         "web": "web.JPG"
     }, 
     "e6968bd25d516522ed802193bbe682a4": {
+        "duration": 339.2, 
         "objid": "EAEA0-828A-1AD4-6414-0", 
         "original": "a.mp4", 
         "size": 103431383, 
@@ -46529,6 +46634,7 @@
         "web": null
     }, 
     "e9c5cc186981e16e07d42e8f55ad010d": {
+        "duration": 527.68, 
         "objid": "EAEA0-C928-5B97-1D04-0", 
         "original": "a.mp4", 
         "size": 101298500, 
@@ -46536,6 +46642,7 @@
         "web": null
     }, 
     "e9df195f435d4cfbc1fa87097033f67b": {
+        "duration": 532.48, 
         "objid": "EAEA0-2460-B938-4A4F-0", 
         "original": "a.avi", 
         "size": 114082618, 
@@ -46711,6 +46818,7 @@
         "web": "web.jpg"
     }, 
     "eaed838d015142e514a7edba940c7169": {
+        "duration": 6.371655, 
         "objid": "EAEA0-343F-3C10-C5FE-0", 
         "original": "a.mov", 
         "size": 334010, 
@@ -47999,6 +48107,7 @@
         "web": "web.JPG"
     }, 
     "f26440b93b3280558094fe533db72b4b": {
+        "duration": 68.36, 
         "objid": "EAEA0-DC42-78FC-387D-0", 
         "original": "a.mp4", 
         "size": 15953370, 
@@ -48062,6 +48171,7 @@
         "web": "web.JPG"
     }, 
     "f2a5888ea6b57fc80c79ccd169f63aad": {
+        "duration": 509.64, 
         "objid": "EAEA0-12C9-8A29-7721-0", 
         "original": "a.avi", 
         "size": 108085968, 
@@ -48370,6 +48480,7 @@
         "web": "web.tif"
     }, 
     "f4302a1bd69e2e00dd686ccbd9ba3544": {
+        "duration": 198.24, 
         "objid": "EAEA0-7428-D1DD-A808-0", 
         "original": "a.mp4", 
         "size": 49267887, 
@@ -48391,6 +48502,7 @@
         "web": "web.jpg"
     }, 
     "f43b0f9fce59ed143632bf069773c49f": {
+        "duration": 750.92, 
         "objid": "EAEA0-428D-6587-A4B5-0", 
         "original": "a.mp4", 
         "size": 251257234, 
@@ -48524,6 +48636,7 @@
         "web": "web.jpg"
     }, 
     "f4a81138802d64d9b88c1831e1d137a4": {
+        "duration": 124.8, 
         "objid": "EAEA0-F7D8-27B2-109E-0", 
         "original": "a.avi", 
         "size": 25683342, 
@@ -48601,6 +48714,7 @@
         "web": "web.jpg"
     }, 
     "f4fe606d6c3d36e1762ad50cd4bb42d1": {
+        "duration": 244.48, 
         "objid": "EAEA0-3988-550B-4945-0", 
         "original": "a.mp4", 
         "size": 76993750, 
@@ -49301,6 +49415,7 @@
         "web": "web.jpg"
     }, 
     "f88a67cf167a41ec27ad4ef0367e5865": {
+        "duration": 563.08, 
         "objid": "EAEA0-FA2B-E90A-512F-0", 
         "original": "a.avi", 
         "size": 117828132, 
@@ -49539,6 +49654,7 @@
         "web": "web.JPG"
     }, 
     "f98c460252239ca2b10beaa6c7cd2e4e": {
+        "duration": 392.56, 
         "objid": "EAEA0-9155-1FD1-12A5-0", 
         "original": "a.avi", 
         "size": 84493608, 
@@ -49861,6 +49977,7 @@
         "web": "web.jpg"
     }, 
     "fab56ba59136ba46469db7fcc671345b": {
+        "duration": 3.715011, 
         "objid": "EAEA0-E17A-1D98-AF85-0", 
         "original": "a.mov", 
         "size": 209634, 
@@ -50309,6 +50426,7 @@
         "web": "web.JPG"
     }, 
     "fc99c43243f2cd8535fe3c01b7beade7": {
+        "duration": 532.48, 
         "objid": "EAEA0-88E0-014C-D8D2-0", 
         "original": "a.mp4", 
         "size": 231365696, 
@@ -50379,6 +50497,7 @@
         "web": "web.JPG"
     }, 
     "fcbfa8cfb6ae9c03f68ad5c7f0f50196": {
+        "duration": 198.24, 
         "objid": "EAEA0-103A-600E-147D-0", 
         "original": "a.avi", 
         "size": 41679486, 
@@ -50988,6 +51107,7 @@
         "web": "web.JPG"
     }, 
     "fffc398750ecee6fd582a58c3ceb12db": {
+        "duration": 150.2, 
         "objid": "EAEA0-12B9-1E0D-2FB3-0", 
         "original": "a.avi", 
         "size": 20096564, 
