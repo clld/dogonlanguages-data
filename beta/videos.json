@@ -5,9 +5,6 @@
     "c784280af0a0f23d409a70d7acabe250": [
         "images/videos/peanuts17_tap_tray_to_dislodge_pounded_peanuts.mp4"
     ], 
-    "e6968bd25d516522ed802193bbe682a4": [
-        "images/videos/village_portrait_Pergue_2011.mp4"
-    ], 
     "ca216a3aadb0c87c716ea675c113b967": [
         "images/videos/peanut_farming_Dogon.avi"
     ], 
@@ -32,8 +29,8 @@
     "b12708f37aa4a4de2c1e40720ed7dd65": [
         "images/videos/peanuts04_squeeze_peanuts_to_loosen_skins.mp4"
     ], 
-    "6210b30c09ea5be64de2cce1d46d86b4": [
-        "images/videos/peanut_farming_Dogon.mp4"
+    "741dfd7df53c4c4db1dc56e664156716": [
+        "images/videos/Bozo_net_fishers_Little_Djenne.avi"
     ], 
     "9683b6dd5ca75edef36924fb8bace8f0": [
         "images/videos/peanuts18_invert_tray_to_dislodge_pounded_peanuts.mp4"
@@ -44,11 +41,20 @@
     "82c559c0c8f97e91f70b1388b460a29a": [
         "images/videos/peanuts23_press_peanut_oil_with_wooden_bowl.mp4"
     ], 
+    "425ddb066443d69088a6da1ddbb568a1": [
+        "images/videos/water_lily_harvest_Beni_2011.mp4"
+    ], 
     "dd6fc370c66f889068eeca93a0ab74fe": [
         "images/videos/wild_grape_seed_oil_Beni_2011.avi"
     ], 
     "cc349d0025f9aa40c1232a59071c15b4": [
         "images/videos/peanuts08_shake_peanuts_from_bowl_into_mortar.mov"
+    ], 
+    "2e4d0c829d34000c874ca10ff907f727": [
+        "images/videos/gardening_Diondiori.qt"
+    ], 
+    "3403828eee51fba838d77fcccafeb66f": [
+        "images/videos/sesame_oil_Douentza_2010.avi"
     ], 
     "0c65b808931003039378168522d004c3": [
         "images/videos/rice_harvest_and_threshing_Bounou_2011.mp4"
@@ -74,6 +80,9 @@
     "9e6b3fd845bca3116d8c88fbe4af52af": [
         "images/videos/arakam_shepherds_bread_Beni_2011_720x360.mp4"
     ], 
+    "534a1422aeb79ba7bc8dd630c1a9f191": [
+        "images/videos/blacksmith_makes_pots.avi"
+    ], 
     "7072faad989f653d8bbd50a699f36807": [
         "images/videos/peanuts18_invert_tray_to_dislodge_pounded_peanuts.mov"
     ], 
@@ -85,6 +94,9 @@
     ], 
     "ab01564007e17d913925108db1a3e640": [
         "images/videos/wild_grape_seed_oil_compilation_Douentza_2010.mp4"
+    ], 
+    "1ab1c9485851b9e4c776aa6a9da0028a": [
+        "images/videos/blacksmith_makes_pots.mp4"
     ], 
     "a62dbeb725a40e6f5cfab7681ae3b2d7": [
         "images/videos/wild_grape_seed_oil_Beni_2011.mp4"
@@ -110,8 +122,14 @@
     "5aa8cb0ae6605126b7bbd881d68e421b": [
         "images/videos/peanuts16_push_sifted_peanuts_from_tray_into_wooden_bowl.mov"
     ], 
+    "2611be983505239477dcd0b50624c0e7": [
+        "images/videos/sweet_potato.mp4"
+    ], 
     "d8431b8c8383a7c01f871ea6f9798896": [
         "images/videos/Collecting_honey_Beni_2011.qt"
+    ], 
+    "25b9d3d23b0b32de4501cacca0063e1c": [
+        "images/videos/sweet_potato.qt"
     ], 
     "eaed838d015142e514a7edba940c7169": [
         "images/videos/peanuts04_squeeze_peanuts_to_loosen_skins.mov"
@@ -131,8 +149,8 @@
     "e9c5cc186981e16e07d42e8f55ad010d": [
         "images/videos/Collecting_honey_Beni_2011.mp4"
     ], 
-    "272975d287bd9a232efe5f3708d2bdf1": [
-        "images/videos/driving_off_grain_eating_birds_Beni_2011.avi"
+    "dfbc204791ae5f1b41e23a3a3e2fed88": [
+        "images/videos/blacksmith_makes_pots.qt"
     ], 
     "3b49a6016b6233138b703be26b88fe53": [
         "images/videos/spiced_millet_rolls_piramang_Beni_2011.mp4"
@@ -140,20 +158,32 @@
     "091c4bdad41fbfb41af6cd731a49c2d6": [
         "images/videos/sesame_oil_Douentza_2010.mp4"
     ], 
-    "548ba79425091f78d5d45ed049f1d8bd": [
-        "images/videos/peanuts21_begin_mashing_sifted_peanuts_by_hand.mp4"
+    "272975d287bd9a232efe5f3708d2bdf1": [
+        "images/videos/driving_off_grain_eating_birds_Beni_2011.avi"
+    ], 
+    "6210b30c09ea5be64de2cce1d46d86b4": [
+        "images/videos/peanut_farming_Dogon.mp4"
     ], 
     "ab5d3cd6a3d90d6d651a05939380d81b": [
         "images/videos/peanuts02_stir_peanuts_roasting_in_pot_with_metal_ladle.mov"
     ], 
+    "1e2fed69db7644454645aca8ee33a43a": [
+        "images/videos/out_of_town_woman.qt"
+    ], 
     "a97ac7512dd8c80d287210d9434467ee": [
         "images/videos/tanning_a_goat_hide_Douentza_2010.avi"
+    ], 
+    "548ba79425091f78d5d45ed049f1d8bd": [
+        "images/videos/peanuts21_begin_mashing_sifted_peanuts_by_hand.mp4"
     ], 
     "24cce3c54de75660c369b84bf9090615": [
         "images/videos/peanut_oil_Douentza_2010.mp4"
     ], 
     "ceb5e112829e627c28b02e409a8994d3": [
         "images/videos/driving_off_grain_eating_birds_Beni_2011.mp4"
+    ], 
+    "e45341e897667a4f86f18fc4f32e346c": [
+        "images/videos/gardening_Diondiori.mp4"
     ], 
     "e350046a0974379efc229c473f516e41": [
         "images/videos/groundnut_farming_Beni_2011.avi"
@@ -184,6 +214,9 @@
     ], 
     "7ec93af000f103553af8234f11dd8777": [
         "images/videos/peanuts06_shake_peanuts_in_pot_to_loosen_skins.mp4"
+    ], 
+    "b3ea241bb1bd7dba34db487a1780f3d6": [
+        "images/videos/Walo_pottery_2014_version.mp4"
     ], 
     "8d2eb59abff9f5889bf2a42c847ea1f9": [
         "images/videos/peanuts13_dump_half_of_pounded_peanuts_into_bowl.mp4"
@@ -221,6 +254,9 @@
     "f2a5888ea6b57fc80c79ccd169f63aad": [
         "images/videos/nuwiiparaa_cowpea_and_millet_meal_Beni_2011.avi"
     ], 
+    "4a4b7ed5b41bff82f77758d6908a58d0": [
+        "images/videos/macari.qt"
+    ], 
     "f4a81138802d64d9b88c1831e1d137a4": [
         "images/videos/peanut_oil_Douentza_2010.avi"
     ], 
@@ -229,6 +265,9 @@
     ], 
     "dd3291653256d8ac355c8ce99c7dc953": [
         "images/videos/grasshopper_hunt_Beni_2011.avi"
+    ], 
+    "d042752eb5480dd62fb2f9fb8d043de8": [
+        "images/videos/peanuts01_shelled_peanuts_dumped_into_preheated_roasting_pot.mov"
     ], 
     "09d21e634cbcf7c8348b5b691cf9f906": [
         "images/videos/peanuts13_dump_half_of_pounded_peanuts_into_bowl.mov"
@@ -272,8 +311,8 @@
     "b6d2ff5224982c546f89edf460d87767": [
         "images/videos/peanuts08_shake_peanuts_from_bowl_into_mortar.mp4"
     ], 
-    "3403828eee51fba838d77fcccafeb66f": [
-        "images/videos/sesame_oil_Douentza_2010.avi"
+    "e6968bd25d516522ed802193bbe682a4": [
+        "images/videos/village_portrait_Pergue_2011.mp4"
     ], 
     "5c1dceac01f03ec28f1981baf29793d6": [
         "images/videos/tanning_a_goat_hide_Douentza_2010.mp4"
@@ -311,8 +350,14 @@
     "a0d97a43c14dc9d0c36d3669fe985f4e": [
         "images/videos/peanuts11_pound_peanuts_in_mortar.mov"
     ], 
+    "ac55db777ecfde549589f44de56f1233": [
+        "images/videos/out_of_town_woman.mp4"
+    ], 
     "5ea648e11827ca488e1149357151647e": [
         "images/videos/making_a_goatskin_shoulderbag_compilation_Douentza_2010.mp4"
+    ], 
+    "39bc6f507e0e321601fc81867f798e0c": [
+        "images/videos/out_of_town_woman.avi"
     ], 
     "05249da6b25c185e97a50bc453c7fb23": [
         "images/videos/flavored_cream_of_millet_Beni_09_2011.mp4"
@@ -320,11 +365,23 @@
     "5b3f481323fc034a992992a844a9c140": [
         "images/videos/peanuts12_scoop_out_pounded_peanuts_from_mortar.mov"
     ], 
+    "26c6373981ed207bde5a5ef89daae88d": [
+        "images/videos/Walo_pottery_2014_version.avi"
+    ], 
     "63b66bf8af2523c9717fdc1856e8fce7": [
         "images/videos/wild_fonio_Panicum_laetum_Tupere_2011.mp4"
     ], 
+    "b35dbae0e575e1ca0a2f0297e418f6c3": [
+        "images/videos/macari.mp4"
+    ], 
+    "0dac639acffcbaab822dfcc429903bfc": [
+        "images/videos/Walo_pottery_2014_version.qt"
+    ], 
     "a2a8a632fe504c3f58ab4e624267b310": [
         "images/videos/arakam_shepherds_bread_Beni_2011_720x360.avi"
+    ], 
+    "aec2872b5753a9ca814d67d1a7598782": [
+        "images/videos/groundnuts_roasted_and_boiled.qt"
     ], 
     "dcac8397b892299f178ad3b00fd4b15f": [
         "images/videos/peanuts10_push_remaining_peanuts_from_bowl_into_mortar_by_hand.mp4"
@@ -341,14 +398,17 @@
     "0b36e4d00a0346333713fe1729ffb695": [
         "images/videos/shea_butter_Douentza_2010.mp4"
     ], 
+    "28b3b8f07b05fae0b4e1d430e5af4093": [
+        "images/videos/Bozo_net_fishers_Little_Djenne.mp4"
+    ], 
     "6b81734653e80fbbc8e4af1034b6094f": [
         "images/videos/peanuts14_sift_pounded_peanuts.mov"
     ], 
     "044046858e6130efc60461a86769af72": [
         "images/videos/peanuts12_scoop_out_pounded_peanuts_from_mortar.mp4"
     ], 
-    "d042752eb5480dd62fb2f9fb8d043de8": [
-        "images/videos/peanuts01_shelled_peanuts_dumped_into_preheated_roasting_pot.mov"
+    "c591ab0c8fdd4a419d5c98305ab15ac0": [
+        "images/videos/Bozo_net_fishers_Little_Djenne.qt"
     ], 
     "9e6a6e547ccff5989bd45ee222294987": [
         "images/videos/replastering_Sevare.mp4"
@@ -356,19 +416,31 @@
     "63f76747ded6ae0c1d32e16016e07cdd": [
         "images/videos/peanuts15_dump_sifting_residue_into_bowl.mp4"
     ], 
+    "45081e9e0c4520d47fbc6be664fa0c0e": [
+        "images/videos/groundnuts_roasted_and_boiled.avi"
+    ], 
+    "1918e349135e9394371ad3f00d56d83c": [
+        "images/videos/sweet_potato.avi"
+    ], 
     "fef000cd224013eb80e21743abd47f36": [
         "images/videos/steamed_cowpeas_with_millet_Walo_2011.mp4"
     ], 
     "481a8a2770a963c357278d9e172da247": [
         "images/videos/peanuts11_pound_peanuts_in_mortar.mp4"
     ], 
-    "425ddb066443d69088a6da1ddbb568a1": [
-        "images/videos/water_lily_harvest_Beni_2011.mp4"
+    "d6915d01ba925cd0b97059eab10a162e": [
+        "images/videos/macari.avi"
+    ], 
+    "a8141c89dd9992bd8841a676309544be": [
+        "images/videos/gardening_Diondiori.avi"
     ], 
     "91097dc2a1857f4ac444a0ab41ebb039": [
         "images/videos/collecting_honey_Beni_2011.avi"
     ], 
     "c03be8c24afcee58fdc1b8fc696eaa19": [
         "images/videos/peanuts05_wipe_hands_together.mp4"
+    ], 
+    "c4978e4aa4d2920c63bac87a7686fb94": [
+        "images/videos/groundnuts_roasted_and_boiled.mp4"
     ]
 }

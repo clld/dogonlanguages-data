@@ -10372,6 +10372,14 @@
         "thumbnail": "thumbnail.jpg", 
         "web": "web.jpg"
     }, 
+    "2e4d0c829d34000c874ca10ff907f727": {
+        "duration": 155.72, 
+        "objid": "EAEA0-C88D-7AF2-C681-0", 
+        "original": "a.qt", 
+        "size": 25627436, 
+        "thumbnail": null, 
+        "web": null
+    }, 
     "2e4d1b63283de27a74219768db684b4f": {
         "objid": "EAEA0-5146-FE92-788E-0", 
         "original": "full.tif", 
@@ -18549,6 +18557,14 @@
         "thumbnail": "thumbnail.tif", 
         "web": "web.tif"
     }, 
+    "534a1422aeb79ba7bc8dd630c1a9f191": {
+        "duration": 1018.28, 
+        "objid": "EAEA0-2BA4-418B-6505-0", 
+        "original": "a.avi", 
+        "size": 212572470, 
+        "thumbnail": null, 
+        "web": null
+    }, 
     "534f6318c63ba6c4bb03d4ca5c98e556": {
         "objid": "EAEA0-C63D-60EA-1795-0", 
         "original": "a.jpg", 
@@ -26099,6 +26115,14 @@
         "objid": "EAEA0-500F-4A8B-DE7A-0", 
         "original": "a.tif", 
         "size": 174574, 
+        "thumbnail": null, 
+        "web": null
+    }, 
+    "741dfd7df53c4c4db1dc56e664156716": {
+        "duration": 184.8, 
+        "objid": "EAEA0-1F81-5D2C-D68A-0", 
+        "original": "a.avi", 
+        "size": 38434166, 
         "thumbnail": null, 
         "web": null
     }, 
@@ -43779,6 +43803,14 @@
         "size": 2238014, 
         "thumbnail": "thumbnail.jpg", 
         "web": "web.jpg"
+    }, 
+    "c591ab0c8fdd4a419d5c98305ab15ac0": {
+        "duration": 184.8, 
+        "objid": "EAEA0-22AC-FA79-7AAA-0", 
+        "original": "a.qt", 
+        "size": 29263054, 
+        "thumbnail": null, 
+        "web": null
     }, 
     "c5a3ef4a44f1b9f12ed1c524c6280f7b": {
         "objid": "EAEA0-E12C-291A-D0B1-0", 
