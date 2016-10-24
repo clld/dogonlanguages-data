@@ -27109,6 +27109,17 @@
         "thumbnail": "thumbnail.jpg", 
         "web": "web.jpg"
     }, 
+    "7845cefaefa5b89171af64b578a5d06b": {
+        "creator": "pycdstar 0.3.0", 
+        "duration": 25.36, 
+        "mp4": "sensitive_plant_Biophythum_helenae_JH.mp4", 
+        "objid": "EAEA0-E55F-07D4-77EB-0", 
+        "original": "sensitive_plant_Biophythum_helenae_JH.MOD", 
+        "path": "/home/shh.mpg.de/forkel/venvs/dogonlanguages/heath_documents/flora fauna videos for website/sensitive_plant_Biophythum_helenae_JH.MOD", 
+        "project": "dogonlanguages", 
+        "size": 24115200, 
+        "thumbnail": "thumbnail.jpg"
+    }, 
     "784601b16f4e653b77a939a7650696df": {
         "objid": "EAEA0-36C9-D0D5-1DC1-0", 
         "original": "full.JPG", 
@@ -36856,12 +36867,12 @@
         "web": "web.jpg"
     }, 
     "a513b3ad060f21c94a2d4ecfce0a9d96": {
+        "duration": 5.2, 
         "mp4": "francolin.mp4", 
         "objid": "EAEA0-D674-3582-334F-0", 
         "original": "francolin.MOD", 
+        "path": "Ouaga zoo videos 2012/francolin.MOD", 
         "project": "dogonlanguages", 
-        "path" : "Ouaga zoo videos 2012/francolin.MOD",
-        "duration" : 5.2,
         "size": 3786752, 
         "thumbnail": "thumbnail.jpg"
     }, 
