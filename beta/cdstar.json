@@ -36855,6 +36855,16 @@
         "thumbnail": "thumbnail.jpg", 
         "web": "web.jpg"
     }, 
+    "a513b3ad060f21c94a2d4ecfce0a9d96": {
+        "mp4": "francolin.mp4", 
+        "objid": "EAEA0-D674-3582-334F-0", 
+        "original": "francolin.MOD", 
+        "project": "dogonlanguages", 
+        "path" : "Ouaga zoo videos 2012/francolin.MOD",
+        "duration" : 5.2,
+        "size": 3786752, 
+        "thumbnail": "thumbnail.jpg"
+    }, 
     "a51cb8ba37aa3ed961eeac0321ee3998": {
         "objid": "EAEA0-CF5A-46A1-93E8-0", 
         "original": "a.jpg", 
